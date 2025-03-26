@@ -1,0 +1,14 @@
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.AssemblyInfoInputs.cache
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.AssemblyInfo.cs
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\bin\Debug\net9.0\CSV.exe
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\bin\Debug\net9.0\CSV.deps.json
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\bin\Debug\net9.0\CSV.runtimeconfig.json
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\bin\Debug\net9.0\CSV.dll
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\bin\Debug\net9.0\CSV.pdb
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.dll
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\refint\CSV.dll
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.pdb
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\CSV.genruntimeconfig.cache
+C:\Users\Guilherme.Soares\Desktop\Estudoc#\Arquivos_C#\CSV\obj\Debug\net9.0\ref\CSV.dll
